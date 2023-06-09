@@ -1,0 +1,25 @@
+<class>[
+    <call>[Ball]
+    <args>[
+        <int>[960]
+        <int>[540]
+        <funcall>[
+            <call>[get_image]
+            <args>[
+                <string>[blocks0]
+            ]
+        ]
+        <int>[15]
+        <int>[3]
+        <int>[5]
+        <float>[6.4]
+    ]
+    <attrs>[
+        <set>[
+            <at>[is_windowed]
+            <content>[
+                <bool>[false]
+            ]
+        ]
+    ]
+];

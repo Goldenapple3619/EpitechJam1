@@ -1,0 +1,7 @@
+![keys]
+    name:string,
+    path:string,
+    group:string,
+    icon:string
+![values]
+    "ball"|"$prefabs_path$"|"fun"|"blocks0"
